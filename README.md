@@ -1,5 +1,6 @@
 # Mohamed.EDAProject
 
+INTRODUCTION
 
 Mental health is very important to a person's overall health and well-being. Mental health is composed​ of emotional, physiological, and social aspects of our lives. The recent COVID-19 pandemic has brought a lot of changes to our lives whether it be work, school, the ability to leave the house, etc. As a result of these changes, our emotional, and psychological health, as well as our social lives have been impacted, and not necessarily for the better health impacts a person's overall health and well-being, and this includes a person's emotional, physiological, and social aspects of their life. With the recent COVID-19 pandemic, a lot of changes have been brought into our lives. To address this topic, we used data sets about SNAP (Supplemental Nutrition Assistance Program), MDE (major depressive episode), poverty, and reports of symptoms of depressive disorders. Our results may help us understand the effect of COVID-19 on adults' mental health in the United States.​
 
