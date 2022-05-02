@@ -1,5 +1,5 @@
 # Mohamed.EDAProject
-Introduction
+
 
 Mental health is very important to a person's overall health and well-being. Mental health is composed​ of emotional, physiological, and social aspects of our lives. The recent COVID-19 pandemic has brought a lot of changes to our lives whether it be work, school, the ability to leave the house, etc. As a result of these changes, our emotional, and psychological health, as well as our social lives have been impacted, and not necessarily for the better health impacts a person's overall health and well-being, and this includes a person's emotional, physiological, and social aspects of their life. With the recent COVID-19 pandemic, a lot of changes have been brought into our lives. To address this topic, we used data sets about SNAP (Supplemental Nutrition Assistance Program), MDE (major depressive episode), poverty, and reports of symptoms of depressive disorders. Our results may help us understand the effect of COVID-19 on adults' mental health in the United States.​
 
@@ -7,9 +7,8 @@ Methods
 
 This project used R Version 4.0.3 and R Studio Version 1.3.1093 (R Core Team, 2020; R Studio Team, 2020-citation for R. The links are in the references section, and all graphs were made in R studio. To get the SNAP data, I went to the USDA website, clicked on SNAP data tables, and downloaded. To get the poverty data, I went to the US census website. The SNAP data was from SAMHSA website. The MDE data came from CDC.org. I downloaded this data set statistics at the national level from ( U.S. Census Bureau, Household Pulse Survey, 2020-2022)
 
+
 Results
-
-
 ![image](https://user-images.githubusercontent.com/97974528/166338224-17ca5ebd-3f99-46b4-a1a3-5a9e8ede03cf.png)
 
 Fig.1. Number of Reports from Adults of ages 18-80+ who responded weekly about experiencing symptoms of depressive disorder from Apr 23 to Dec 30,2020. Results were based on the number of reports of adults ages 18-80+ who reported symptoms of Depressive Disorder weekly from Apr 23 to Dec 30,2020
