@@ -10,6 +10,7 @@ This project used R Version 4.0.3 and R Studio Version 1.3.1093 (R Core Team, 20
 Results
 
 
+![image](https://user-images.githubusercontent.com/97974528/166338224-17ca5ebd-3f99-46b4-a1a3-5a9e8ede03cf.png)
 
 Fig.1. Number of Reports from Adults of ages 18-80+ who responded weekly about experiencing symptoms of depressive disorder from Apr 23 to Dec 30,2020. Results were based on the number of reports of adults ages 18-80+ who reported symptoms of Depressive Disorder weekly from Apr 23 to Dec 30,2020
 
