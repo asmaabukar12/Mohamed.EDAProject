@@ -15,7 +15,7 @@ Fig.1. Number of Reports from Adults of ages 18-80+ who responded weekly about e
 
 Discussions
 
-There appears to be decrease then increase in number of subgroups 18-29 experiencing most symptoms of depressive order from Apr to Dec 2020 and the decrease in Ages 80+. The graph with how ages and MDE's are correlated show that the age group with the most MDE's are 18-29. In fact, approximately 200 people ages 18-29 said they had experienced symptoms of MDE.​ With the increase in SNAP users and an increase in people in poverty from 2019 to 2020 you can understand why there is an increase in major depressive episodes, especially with adults among the ages of 18-29. This specific group of adults are more vulnerable to because your early teens into your mid to late twenties are a very uncertain time in one's life.​
+There appears to be decrease then increase in number of subgroups 18-29 experiencing most symptoms of depressive order from Apr to Dec 2020 and the decrease in Ages 80+. The graph with how ages and MDE's are correlated show that the age group with the most MDE's are 18-29. In fact, approximately 200 people ages 18-29 said they had experienced symptoms of MDE.​ With the increase in SNAP users and an increase in people in poverty from 2019 to 2020 you can understand why there is an increase in major depressive episodes, especially with adults among the ages of 18-29. This specific group of adults are more vulnerable to because your early teens into your mid to late twenties are a very uncertain time in one's life..​
 
 References
 
