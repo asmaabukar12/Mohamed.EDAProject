@@ -64,7 +64,7 @@ write_csv(
   col_names = TRUE
 )
 
-#2017
+#year 2017
 load("data/NSDUH_2017.RData")               # read 2017 data
 nsduh_2017 <- as_tibble(PUF2017_100918)         # turn it into a tibble
 nsduh_2017
