@@ -1,14 +1,16 @@
+#Load Packages Below
 library(tidyverse)
 library(readxl)
 library(dplyr)
 library(readxl)
 library(readxl)
+#Load MDE Symptoms Data
 symptoms_of_mde <- read_excel("Symptoms_of_MDE.xlsx", 
                               col_types = c("text", "text", "skip", 
                                             "text", "skip", "skip", "text", "skip", 
                                             "skip", "text", "skip", "skip", "skip", 
                                             "skip"))
-
+#Data Framing from weekly symptoms of Depressive Disorder from Apr-Dec,2020
 Subgroups=c("Ages 18-29", "Ages 30-39", "Ages 40-49", "Ages 50-59"
             ,"Ages 60-69","Ages 70-79","Ages 80 and above")
 Percent= c(32.7,25.7,24.8,23.2,18.4,13.6,14.4)
@@ -97,17 +99,17 @@ df21= data.frame(Subgroups,Percent, Period)
 
 
 
-
 #Bind all Four Dataframes into 4 columns together
 Covid_2020<-bind_rows(df,df2,df3,df4,df5,df6,df7,df8,df9,df10
                       ,df11,df12,df13,df14,df15,df16,df17,df18,
                       df19,df20,df21)
+
 #Mutate and Filter Subgroups
 Covid_2020 %>%
   filter(!is.na(Subgroups) %>%
   mutate(Subgroups= Subgroups)
 
-
+#Creating Stacked Bar Graph Labs and ggplot
 fig2<-ggplot(Covid_2020, aes(x = Period, y = Percent, fill= Subgroups)) +  
   geom_bar(stat= "identity")+
   scale_x_discrete(label =c("Apr23-May5,2020","May7-May12,2020","May21-May26,2020",
