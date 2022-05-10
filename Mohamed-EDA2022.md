@@ -27,7 +27,7 @@ helps people with a low income to buy nutritious food. Our results may
 help us understand the effect of COVID-19 on adults’ mental health in
 the United States.​
 
-https://9a7337f8e18e42efbc9024a91973523b.app.rstudio.cloud/file_show?path=%2Fcloud%2Fproject%2FMDEChart.png
+![image](https://user-images.githubusercontent.com/97974528/167697182-1f9e44ea-91a3-411b-ac6d-40a99dec874b.png)
 
 # Methods
 
@@ -48,17 +48,20 @@ at the national level from ( U.S. Census Bureau, Household Pulse Survey,
 
 # Results
 
-![](poverty.data.png)
+![image](https://user-images.githubusercontent.com/97974528/167697248-7f843d16-2a74-4095-989e-543bab92181f.png)
 
 **Fig.1.** The overall graph trend of the number of people in poverty
 from 2016-to 2020.
 
-![](snap.data.png)
+
+![image](https://user-images.githubusercontent.com/97974528/167697301-293eb2b8-c3c3-4f30-9a52-e26740481043.png)
 
 **Fig.2.** The overall trend of the number of SNAP users from 2016-to
 2020.
 
-![](MDE.Data.png)
+
+
+![image](https://user-images.githubusercontent.com/97974528/167697355-1f7ce59d-5029-4afe-b9de-21731679a71d.png)
 
 **Fig.3.** Number of Reports from Adults of ages 18-80+ who responded
 weekly about experiencing symptoms of the depressive disorder from Apr
