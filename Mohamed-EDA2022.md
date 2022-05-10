@@ -27,7 +27,7 @@ helps people with a low income to buy nutritious food. Our results may
 help us understand the effect of COVID-19 on adults’ mental health in
 the United States.​
 
-![](MDEChart.png)
+https://9a7337f8e18e42efbc9024a91973523b.app.rstudio.cloud/file_show?path=%2Fcloud%2Fproject%2FMDEChart.png
 
 # Methods
 
